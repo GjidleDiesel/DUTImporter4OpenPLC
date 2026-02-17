@@ -1,0 +1,6 @@
+TYPE ST_AnalogDebug : STRUCT
+		Value 		 : REAL ;
+ 		Wirebreak 	 : BOOL ;
+ 		ShortCircuit : BOOL ;
+	END_STRUCT
+END_TYPE
