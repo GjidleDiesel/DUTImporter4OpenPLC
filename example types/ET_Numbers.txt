@@ -1,0 +1,7 @@
+TYPE ET_Numbers :		// Example ENUM type
+(
+        One  	:= 1,
+        Two 	:= 2,
+        Three  	:= 3
+); 
+END_TYPE
