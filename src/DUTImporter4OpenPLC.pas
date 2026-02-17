@@ -1,5 +1,5 @@
 (*
-|   Project         : DUTIImporter4OpenPLC
+|   Project         : DUTImporter4OpenPLC
 |   Version         : 1.0
 |   Date            : 2026-02-15
 |   FPC Version     : 3.2.2
